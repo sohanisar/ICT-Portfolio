@@ -1,2 +1,5 @@
 # ICT-Portfolio
-A beginner-level ICT portfolio showcasing my foundational knowledge , basic programming projects and learning journey in ICT.
+Name:SOHA
+Program:BS Software Engineering
+Semester:1
+This repository is created for my ICT assignment
