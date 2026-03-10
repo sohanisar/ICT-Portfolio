@@ -1,5 +1,6 @@
 .My name is Soha Nisar
 .I am a candidate of BS software engineering
 .I am currently in 1st semester
-.I have created this project - ICT portfolio as a gesture of initiating our digital presence
+.I have created this project - ICT Portfolio.
 .Eager to learn more,developing insights into technology and building projects.
+
